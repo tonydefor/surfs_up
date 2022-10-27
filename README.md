@@ -18,6 +18,7 @@ In our main analyses we determined the temperature data for the months of June a
 The statistics provide some clarity with what to expect for temperatures based on our data for the month of June
 
 We also queried our database to filter the Measurements table to retrieve data for the month of December. We determined the following outcomes:
+
 ![december_temps](https://user-images.githubusercontent.com/47859209/198183880-8dd29230-76cd-4467-90d0-f92e478d8e24.png)
 
 - The average temperature in December was 71.041529
